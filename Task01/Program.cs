@@ -8,6 +8,8 @@
 
 Console.Write("Введите первое число: ");
 
+//Convert.ToInt32(Console.ReadLine()); - преобразование строки в число
+
 int numberA = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите второе число: ");
